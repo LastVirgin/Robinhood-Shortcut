@@ -10,3 +10,4 @@ import subprocess
 #print ("browser" +" "+ phrase)
 webbrowser.open("https://www.robinhood.com")
 ##testing github
+##using Pyinstaller or auto pyinstaller you can turn this into a .exe and an .ico; making it into a desktop icon if you wanted too like I did!
